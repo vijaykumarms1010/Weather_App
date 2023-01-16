@@ -8,9 +8,9 @@
 
 ## features
 
-- search any location temperature
+- search any location  and we can get temperature
 - current location weather
 - date
 - time
 
-full of weather Report
+## weather Report of week
